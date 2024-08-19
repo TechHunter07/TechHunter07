@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm BIJJAM VENKATA SIVA REDDY</h1>
-<h3 align="center">SYS OPS ENGINEER</h3>
-
+![Black Yellow Modern Programmer LinkedIn Banner (1)](https://github.com/user-attachments/assets/1e1c4b45-3f50-4446-8b28-5057be786431)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techhunter07&label=Profile%20views&color=0e75b6&style=flat" alt="techhunter07" /> </p>
 
 - 🔭 I’m currently working on **Lemnisk**
