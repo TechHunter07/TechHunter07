@@ -1,0 +1,36 @@
+1. Generate a New GitHub Personal Access Token
+Login to GitHub:
+
+Go to GitHub.com and log in to your account.
+Navigate to Settings:
+
+Click on your profile picture in the upper-right corner.
+Select "Settings" from the dropdown menu.
+Go to Developer Settings:
+
+In the left sidebar, scroll down and click on "Developer settings."
+Personal Access Tokens:
+
+Click on "Personal access tokens" in the left sidebar, then click on "Tokens (classic)".
+Click on "Generate new token" (or "Generate new token (classic)" if it's listed).
+Select Scopes:
+
+Give the token a descriptive name.
+Select the scopes or permissions you need. For example, to push to repositories, you'll need to select the repo scope.
+Generate the Token:
+
+Click on the "Generate token" button.
+Copy the token immediately as you won’t be able to view it again.
+
+
+git config --global --get credential.helper
+git config --global --unset credential.helper
+rm ~/.git-credentials
+git credential-manager erase
+git remote -v
+git remote set-url origin https://github.com/TechHunter07/k8.git
+git config --global credential.helper store
+git push origin main
+
+
+ENTER USER NAME AND PAT TOKEN
